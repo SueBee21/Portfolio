@@ -4,6 +4,7 @@ body {
     font-family: georgia, serif;
 }
 
+/* navbar */
 #navbar {
     background-color: red;
 }
@@ -19,8 +20,6 @@ h1 {
     margin-top: 15px;
     margin-left: 60px;
 }
-
-
 .float-left {
     float: left;
 }
@@ -52,7 +51,7 @@ h1 {
 #portfolio {
     color: white;
 }
-
+/* footer */
 footer {
     position: fixed;
     left: 0;
