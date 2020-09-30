@@ -5,6 +5,14 @@
 * Bootstrap Contact component was utilized for contact form on contact.html.
 * Bootstrap Contact Card was used for contact card on contact.html
 
+## Project Site:
+* https://github.com/SueBee21/Portfolio
+
+## Depolyed Site:
+* https://suebee21.github.io/Portfolio/
+
+* Screenshot:
+<img width="1792" alt="Deployedsite" src="https://user-images.githubusercontent.com/68358265/94631959-4a039c80-0297-11eb-8a29-b7aabf39b93d.png">
 
 ## Credits: 
 * Bootstrap components were utilized in this project.  www.getbootstrap.com  
