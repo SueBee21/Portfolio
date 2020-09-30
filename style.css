@@ -49,8 +49,17 @@ h1 {
 
 /* portfolio */
 #portfolio {
+    color: white;  
+}
+
+.portfolio {
+    text-align: center;
+}
+
+.url {
     color: white;
 }
+
 /* footer */
 footer {
     position: fixed;
@@ -61,3 +70,4 @@ footer {
     color: white;
     text-align: center;
  }
+
