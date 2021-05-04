@@ -1,7 +1,11 @@
 /* background image */
 body {
-    background-image: url("./assets/beach.png");
+    background-image: url("./assets/background.png");
     font-family: georgia, serif;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 /* navbar */
@@ -12,7 +16,7 @@ body {
 #about-me {
     border: solid;
     border-width: thick;
-    border-color: dimgray;
+    border-color: linen;
     background-color: linen;
 }
 
