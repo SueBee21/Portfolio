@@ -35,14 +35,14 @@ h1 {
 
 #submit {
     color: black;
-    background-color: navajowhite;
+    background-color: linen;
     border-color: white;
 }
 .card {
     border-style: solid;
-    border-color: dimgray;
+    border-color: linen;
     border-width: medium;
-    background-color: navajowhite;
+    background-color: linen;
     color: dimgray;
     margin-top: 90px;
     margin-right: 20px;
